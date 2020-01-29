@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Shuaib Bashir",
+    "email": "bash@terminal.com",
+    "phone": "07037657336",
+    "address": "34k Aminu Kano Crescent, Wuse 2, Abuja.",
+    "books": [
+      {"name": "Why You Act The Way You Do", "author": "Tim Lahaye"},
+      {"name": "The Prince", "author": "Napoleon"}
+    ]
+  },
+  {
+    "name": "Skyles Memphis",
+    "email": "bash@io.com",
+    "phone": "07037657336",
+    "address": "FHA Nyanya, Wuse 2, Abuja.",
+    "books": [
+      {"name": "Why You Act The Way You Do", "author": "Tim Lahaye"},
+      {"name": "The Prince", "author": "Napoleon"}
+    ]
+  }
+]
